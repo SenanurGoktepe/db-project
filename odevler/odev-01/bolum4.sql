@@ -1,0 +1,1 @@
+-- Bölüm 4: Gruplama ve NULL
